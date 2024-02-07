@@ -16,9 +16,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/aiboboxx/clashfree/main/cl
 TVBox、tivimate等自用源以及仓库源、直播源等
 以下为国内可打开缓存地址：
 
-https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓
-
-https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓
+https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93
 
 TVBOX接口在线解密：https://www.lige.fit/ua
 
@@ -26,21 +24,15 @@ TVBox 配置文件。所有资源均来自于各路大神无私分享，如有�
 
 # 配置说明：
 
-（1）cangku.json 网络收集的多人配置文件；
+（1）ck.json & ck2.json 网络收集的多人配置文件；
 
-（2）duocang.json 网络收集的多人仓库配置文件；
+（2）自用直播晴天源.txt 网络收集 晴天 电视直播源；
 
-（3）live-qingtian.txt 网络收集 晴天 电视直播源；
+（3）live.txt 网络收集的用于 TVbox 软件的电视直播源；
 
-（4）live.m3u 网络收集的 tivimata 软件电视直播源；
+（4）livecangku.json 网络收集的用于 TVbox 软件的电视直播源汇总；
 
-（5）live.txt 网络收集的用于 TVbox 软件的电视直播源；
-
-（6）livecangku.json 网络收集的用于 TVbox 软件的电视直播源汇总；
-
-（7）luxian.json 网络收集的单人配置文件；
-
-（8）zyplayer.json 网络收集的用于 ZYPlayer PC端的配置文件。
+（5）zyplayer.json 网络收集的用于 ZYPlayer PC端的配置文件。
 
 
 # 1、给英文不好的朋友
