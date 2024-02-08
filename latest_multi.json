@@ -9,6 +9,7 @@
     {"sourceName":"自己专用单仓","sourceUrl":"https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/ck.json" }, 
     {"sourceName":"自己专用单仓2","sourceUrl":"https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/ck2.json" }, 
     {"sourceName":"Iris电视直播","sourceUrl":"https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/latest_live.txt" }, 
+    {"sourceName":"Iris单仓","sourceUrl":"https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/latest_show.json" },
     {"sourceName":"放学回家单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json" }, 
     {"sourceName":"云星在线单仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
     {"sourceName":"业余奇奇单仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
