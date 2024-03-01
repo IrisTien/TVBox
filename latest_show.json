@@ -412,6 +412,11 @@
     ],
     "lives": [
         {
+            "name": "Iris's Live",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/latest_live.txt"
+        },
+        {
             "name": "tvlive",
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
