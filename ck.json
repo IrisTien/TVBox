@@ -4,7 +4,6 @@
 
 {"urls":[
 {"name": "自己专用","url":"https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/自用源"},
-{"name": "Iris电视直播","url":"https://github.com/IrisTien/TVBox/blob/main/latest_live.txt"},
 {"name": "Iris线路","url":"https://github.com/IrisTien/TVBox/blob/main/latest_show.json"},
 {"name": "码上放生","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json"},
 {"name": "小暴脾气","url":"http://xhww.fun/小米/DEMO.json"},
