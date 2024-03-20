@@ -1,8 +1,9 @@
 最新,#genre#
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV1,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-CCTV3,http://171.119.207.150:6002/rtp/226.0.2.208:9576
-CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
+CCTV3,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
+CCTV4,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
@@ -10,9 +11,9 @@ CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-CCTV11,https://iptv.luas.edu.cn/liverespath/3d0aa0f1604f13f0ae90c2dc0590ca22a1bcaaa2/646e868153-0-0-a53121a1df5b93a74d1980270e652878/index.m3u8
-CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV11,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
+CCTV12,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
+CCTV13,https://live-play-shanghai.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV14,http://222.189.51.62:8888/newlive/live/hls/14/live.m3u8
 CCTV15,https://iptv.luas.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/aefabb5259-0-0-65038e86b205c58b18c0c661afd99fae/index.m3u8
 CCTV1HD,http://171.119.207.150:6002/rtp/226.0.2.153:9136
@@ -113,6 +114,9 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?   
 CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 
+阳泉,#genre#
+阳泉科教,https://live.yqrtv.com/xwchne/playlist.m3u8
+阳泉新闻综合,https://live.yqrtv.com/xwpd/playlist.m3u8
 
 卫视,#genre#
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
@@ -1744,11 +1748,11 @@ CCTV16,http://135.148.104.228:19806/c2001475104d47b9815a8c3e5e73a761
 爱奇艺,http://135.148.104.228:19806/206defdef43a42fb8ee50238e76ac32c
 
 港澳特区,#genre#
-凤凰中文台,http://135.148.104.228:19806/645385720009117848161b4e340f749d
-凤凰资讯台,http://135.148.104.228:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
+凤凰中文台,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰香港台,http://135.148.104.228:19806/b70e94e7ac144bf585ad3bb140833c64
 凤凰电影台,http://135.148.104.228:19806/2df8c6787b0a4f08bee3dcccd49aef8b
-翡翠台(备),http://135.148.104.228:19806/03b76f07cea3474a913541c586fc0747
+翡翠台(备),http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://135.148.104.228:19806/645c8bbf0007c6216b56c2955f644196
 翡翠台(华丽台),http://135.148.104.228:19806/273abed884a24011a410ddb0ea81cb1a
 明珠台,http://135.148.104.228:19806/24e912a5d830431fbd5d9ca1792be9de
@@ -1787,14 +1791,21 @@ Thrill,http://135.148.104.228:19806/14f535a7ec5a4939a67e7165f94ca38e
 澳门莲花,http://135.148.104.228:19806/bba45ad672ed40a9b433330c4839cfe2
 
 台湾省,#genre#
-TVBS欢乐台,http://135.148.104.228:19806/645c744e0000479b6afb2f39254b3e96
-TVBS新闻台,http://135.148.104.228:19806/beaa6cbcf1034703a97d3295f8c0ae60
-TVBS,http://135.148.104.228:19806/644d1a13000e2f842f02b17e6e9f6cae
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS(HD),http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
+TVBS欢乐台,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
+TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 TVBS精采台,http://135.148.104.228:19806/8f1da99629564b52ba7ebf7621218671
 TVBS亚洲,http://135.148.104.228:19806/7389e1ced8184a84aa22aeec29be6f85
-中天新闻台,http://135.148.104.228:19806/645a505500087efb629eacb405a54a42
+中天新闻台,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+中天新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
 中天娱乐台,http://135.148.104.228:19806/97163a966a4a49ac888dbd606b965cf4
-中天综合台,http://135.148.104.228:19806/6458c64d00033f105c9b7c1c35097dec
+中天综合台,http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+中天亚洲台,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+中天亚洲台,http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 中视,http://135.148.104.228:19806/f1f4f77c21e2470e9c29111c9370bf08
 中视经典台,http://135.148.104.228:19806/0a7a6c90f54b48e0878d0594d08916f6
 中视菁采台,http://135.148.104.228:19806/dc2d664758354920a5935d334a40e7e8
@@ -1901,8 +1912,10 @@ ONE,http://135.148.104.228:19806/46709f19c5a2466f9ae889037f66615a
 城市电视,http://135.148.104.228:19806/4ed9cf9666d7430d94e6f4f8c26986f6
 
 美国频道,#genre#
-CNN,http://135.148.104.228:19806/3745a94cbe904b9480d19a1b5dfc6275
-CNBC,http://135.148.104.228:19806/8603e70bd41c4e4a9368407a8a4debdd
+CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+CNBC,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
+OFTV,https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
 NBA,http://135.148.104.228:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 ESPN,http://135.148.104.228:19806/eb2c51ee510841a9b7845b6d13309e9c
 CBSN,http://135.148.104.228:19806/a90df52b92804807b6c08cdbbead4ce4
@@ -1933,6 +1946,7 @@ TVBS新闻台,http://135.148.104.228:19806/beaa6cbcf1034703a97d3295f8c0ae60
 JKN 18,http://135.148.104.228:19806/0df418fddf7446a5869f69f1418415d6
 
 海外新闻,#genre#
+TNN 24,http://198.16.100.90:8278/tnn24_pat/playlist.m3u8?tid=MA1A4244094842440948&ct=19249&tsum=0913ba2ca4190c831479ae37a7517664
 TNN 16,http://135.148.104.228:19806/714715de5cfd4051a54105cc4ef30af6
 CP24,http://135.148.104.228:19806/645a790b00087173633db3a45acb0a34
 Sky News,http://135.148.104.228:19806/ddc4e102601e4fcfa5432722538cf052
