@@ -1,3 +1,7 @@
+# 搜索直播资源
+
+https://www.foodieguide.com/iptvsearch/
+
 # 使用Replit部署LiveRedirect项目
 
 PHP地址：https://php.61073736.repl.co/***.php?id={channel}
