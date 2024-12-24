@@ -6,15 +6,15 @@
     "storeHouse": [
         {
             "sourceName": "自己专用单仓",
-            "sourceUrl": "https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/ck.json"
+            "sourceUrl": "https://ghcy.eu.org/https://raw.githubusercontent.com/IrisTien/TVBox/main/ck.json"
         },
         {
             "sourceName": "自己专用单仓2",
-            "sourceUrl": "https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/ck2.json"
+            "sourceUrl": "https://ghcy.eu.org/https://github.com/IrisTien/TVBox/blob/main/ck2.json"
         },
         {
             "sourceName": "自己专用单仓3",
-            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/IrisTien/TVBox/main/ck3.json"
+            "sourceUrl": "https://ghcy.eu.org/https://raw.githubusercontent.com/IrisTien/TVBox/main/ck3.json"
         },
         {
             "sourceName": "🌲一木多仓推荐",
@@ -34,7 +34,7 @@
         },
         {
             "sourceName": "放学回家单仓",
-            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json"
+            "sourceUrl": "https://ghcy.eu.org/https://raw.githubusercontent.com/jigedos/tvboxDC/main/tgdc.json"
         },
         {
             "sourceName": "云星在线单仓",
@@ -42,11 +42,11 @@
         },
         {
             "sourceName": "业余奇奇单仓",
-            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"
+            "sourceUrl": "https://ghcy.eu.org/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"
         },
         {
             "sourceName": "业余日后单仓",
-            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"
+            "sourceUrl": "https://ghcy.eu.org/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"
         },
         {
             "sourceName": "超级仓库单仓",
