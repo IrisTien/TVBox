@@ -1,11 +1,8 @@
-//接口全部来源于网络,接口失效我会在有时间时不定时更新,更新不及时请各位小主勿怪。感谢您的理解！！！
-//接口排名不分先后（个人使用习惯）,接口名称前面的小图标也是为了美观和个人喜好添加的,请各位大佬勿怪！！！
-//接口地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/IrisTien/TVBox/main/ck2.json
 {
   "urls":[
     {"name":"🚚运输车","url":"https://weixine.net/ysc.json"},
     {"name":"💦巧技","url":"http://pandown.pro/tvbox/tvbox.json"},
     {"name":"🐥胖鸭","url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"},
-    {"name":"🐯于氏影业","url":"https://agit.ai/sejinan/app/raw/branch/box/yu"},
+    {"name":"🐯于氏影业","url":"https://agit.ai/sejinan/app/raw/branch/box/yu"}
   ]
 }

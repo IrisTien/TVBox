@@ -1,6 +1,7 @@
 # 搜索直播资源
 
 https://www.foodieguide.com/iptvsearch/
+多仓链接：https://ghcy.eu.org/https://raw.githubusercontent.com/IrisTien/TVBox/main/latest_multi
 
 # 使用Replit部署LiveRedirect项目
 
@@ -19,8 +20,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/aiboboxx/clashfree/main/cl
 # TVBox、tivimate、ZYPlayer等自用源以及仓库源、直播源等
 TVBox、tivimate等自用源以及仓库源、直播源等
 以下为国内可打开缓存地址：
-
-https://mirror.ghproxy.com/https://github.com/IrisTien/TVBox/blob/main/%E8%87%AA%E7%94%A8%E5%A4%9A%E4%BB%93
+https://ghcy.eu.org/https://raw.githubusercontent.com/IrisTien/TVBox/main/latest_multi
 
 TVBOX接口在线解密：https://www.lige.fit/ua
 
