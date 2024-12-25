@@ -2,6 +2,7 @@
 
 https://www.foodieguide.com/iptvsearch/
 多仓链接：https://ghcy.eu.org/https://raw.githubusercontent.com/IrisTien/TVBox/main/latest_multi
+Github加速服务: https://ghcy.eu.org/
 
 # 使用Replit部署LiveRedirect项目
 
